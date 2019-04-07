@@ -1,0 +1,3 @@
+This program takes user input from the terminal and sends out notification through email.
+The user would input the food they like and email, and the program would parse the information from the USC dining menu website and check if the food is served today.
+Then, the program automatically sends out emails to the people in the mailing list to notify them that their favorite food is served at the dining hall today.
